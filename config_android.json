@@ -1,7 +1,8 @@
 {
   "enabled":"1",
+  "enableAll":"1",
 	"theme":"http://rogerqian.github.io/dqd_1_1.png",
-	"url":"http://rogerqian.github.io/dqd.apk", 
+	"url":"http://static.ballpo.com/app/apk/Dongqiudi_Zen.apk", 
 	"fids" : [
 	{
     "fid" : "34",
