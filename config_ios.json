@@ -1,9 +1,11 @@
 {
-	"theme":"http://rogerqian.github.io/dongqiudi_1.png", 
+  "enabled":"1",
+	"themeiPhone":"http://rogerqian.github.io/dqd_1_1.png",
+  "themeiPad":"http://rogerqian.github.io/dqd_2_1.png", 
 	"url":"https://itunes.apple.com/cn/app/dong-qiu-di-zhuan-ye-quan/id766695512?ls=1&mt=8", 
 	"fids" : [
 	{
-    "fid" : "37",
+    "fid" : "34",
     "name" : "步行街"
   },
   {
