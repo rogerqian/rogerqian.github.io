@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "PXRM6WVFC5.me.roger.chiphell",
-                "paths": [ "*" ]
-            }
-        ]
-    }
+ "applinks": {
+   "apps": [],
+   "details": {
+    "PXRM6WVFC5.me.roger.chiphell":{
+      "paths": [ "*" ]
+   }
+  }
+ }
 }
+
