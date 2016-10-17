@@ -1,13 +1,15 @@
 {
- "applinks": {
-  "apps": [],
-   "details": {
-    "PXRM6WVFC5.me.roger.chiphell":{
-      "paths": [ "*" ]
-    },
-    "43AQP2M5NJ.me.roger.chiphell":{
-      "paths": [ "*" ]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "43AQP2M5NJ.me.roger.chiphell",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "PXRM6WVFC5.me.roger.chiphell",
+                "paths": [ "*" ]
+            }
+        ]
     }
-  }
- }
 }
