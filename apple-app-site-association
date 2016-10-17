@@ -3,12 +3,8 @@
   "apps": [],
    "details": {
     "PXRM6WVFC5.me.roger.chiphell":{
-      "paths": [ "/music-links/*"
-    ]
-    },
-  }
- },
- "webcredentials": {
-        "apps": [ "PXRM6WVFC5.me.roger.chiphell" ]
+      "paths": [ "*" ]
     }
+  }
+ }
 }
